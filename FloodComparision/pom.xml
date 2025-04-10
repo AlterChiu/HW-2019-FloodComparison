@@ -27,7 +27,7 @@
 		<!-- +++++++++++++++++++++++++++++++ -->
 		<commonCollection.version>4.4</commonCollection.version>
 		<poi.version>4.1.0</poi.version>
-		<poiOoxml.version>4.1.0</poiOoxml.version>
+		<poiOoxml.version>5.4.0</poiOoxml.version>
 		<poiOoxmlSchemas.version>4.1.0</poiOoxmlSchemas.version>
 		<poiScratchpad.version>4.1.0</poiScratchpad.version>
 		<staxApi.version>1.0-2</staxApi.version>
